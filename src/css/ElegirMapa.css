@@ -1,0 +1,5 @@
+.map:hover{
+    box-shadow: 5px 5px 20px rgb(0 0 0 / 0.2);
+    transform: scale(1.1);
+    transition: 0.5s all;
+}
