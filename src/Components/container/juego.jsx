@@ -94,7 +94,7 @@ const Juego =()=>{
         })
         return coord;
     }
-
+    //movimientos:
     //moviendo la rata hacia arriba
     const moveUp = ()=>{
         const {i,j,cheese} = locateRat(state);
